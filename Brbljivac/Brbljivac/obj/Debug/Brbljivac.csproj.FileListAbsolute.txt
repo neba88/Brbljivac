@@ -1,0 +1,6 @@
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\bin\Debug\Brbljivac.exe.config
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\bin\Debug\Brbljivac.exe
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\bin\Debug\Brbljivac.pdb
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\obj\Debug\Brbljivac.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\obj\Debug\Brbljivac.exe
+D:\Documents\GitHub\Brbljivac\Brbljivac\Brbljivac\obj\Debug\Brbljivac.pdb
